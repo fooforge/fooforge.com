@@ -10,3 +10,12 @@ description: Support engineer at GitHub
 twitter: fooforge
 github: fooforge
 gravatar_url: http://gravatar.com/avatar/730340d1a03c001ef84024d8ddb828fa
+
+exclude:
+ - unicorn.rb
+ - README.md
+ - Procfile
+ - Gemfile
+ - Gemfile.lock
+ - config.ru
+ - vendor
