@@ -1,0 +1,12 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+name: Mike
+url: http://fooforge.com
+description: Support engineer at GitHub
+twitter: fooforge
+github: fooforge
+gravatar_url: http://gravatar.com/avatar/730340d1a03c001ef84024d8ddb828fa
