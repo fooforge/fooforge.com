@@ -1,17 +1,4 @@
 encoding: utf-8
-markdown: rdiscount
-pygments: true
-permalink: posts/:title
-rdiscount:
-  extensions: [smart]
-
-name: Mike
-url: http://fooforge.com
-description: Support engineer at GitHub
-twitter: fooforge
-github: fooforge
-gravatar_url: http://gravatar.com/avatar/730340d1a03c001ef84024d8ddb828fa
-
 exclude:
  - unicorn.rb
  - README.md
@@ -20,3 +7,28 @@ exclude:
  - Gemfile.lock
  - config.ru
  - vendor
+
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            fooforge
+tagline:          'Where no turtle has gone before!'
+description:      'A simple website'
+url:              http://fooforge.com
+
+author:
+  name:           'Mike Adolphs'
+  url:            https://twitter.com/fooforge
+
+paginate:         5
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/fooforge/fooforge.com
