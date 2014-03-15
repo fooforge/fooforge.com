@@ -1,5 +1,5 @@
 server {
-  listen 8000;
+  listen 80;
   root /var/www/fooforge.com/_site;
   index index.html;
 

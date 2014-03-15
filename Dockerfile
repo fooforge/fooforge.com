@@ -35,7 +35,7 @@ RUN /bin/bash -lc 'gem install bundler'
 RUN /usr/bin/apt-get install -qy nginx 
 RUN /bin/echo "daemon off;" >> /etc/nginx/nginx.conf
 
-EXPOSE 8000
+EXPOSE 80
 
 # Clone and build fooforge.com
 RUN /usr/bin/git clone https://github.com/fooforge/fooforge.com.git /var/www/fooforge.com/
