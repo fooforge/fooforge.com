@@ -3,28 +3,27 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Mike Adolphs
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Mike Adolphs is an Operations expert based in Luebeck, Germany. Previously building and automating server infrastructures for [nugg.ad](http://nugg.ad) in Berlin and [XING](https://www.xing.com/) in Hamburg, he's now making people's life a little easier at [GitHub](https://github.com/) in San Francisco. For the past one and a half years he's been working on technical support for the GitHub Enterprise product - his first support-orientied role ever since, allowing him to deep dive into other people's code on a daily basis.
 
-There are currently two themes built on Poole:
+He's also speaking in front of people every once in a while and interested in making this more of a regular thing. Let him know if you're looking for speakers!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Mike is currently not available for hire. That said, feel free to let him know about interesting remote jobs. Maybe you can pick up the conversation again once the situation has changed.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+![Mike Adolphs](/public/img/fooforge.png)
 
-## Setup
+### Contact options
 
-Some fun facts about the setup of this project include:
+You can contact him via the following methods.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+##### Email
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+  * [mike@fooforge.com](mailto:mike@fooforge.com)
+  * [mike@github.com](mailto:mike@github.com)
 
-Thanks for reading!
+##### Web
+
+  * [Twitter](https://twitter.com/fooforge)
+  * [LinkedIn](http://www.linkedin.com/in/mikeadolphs)
+  * [XING](https://www.xing.com/profile/Mike_Adolphs)

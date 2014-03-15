@@ -1,12 +1,4 @@
 encoding: utf-8
-exclude:
- - unicorn.rb
- - README.md
- - Procfile
- - Gemfile
- - Gemfile.lock
- - config.ru
- - vendor
 
 # Dependencies
 markdown:         redcarpet
@@ -17,15 +9,15 @@ permalink:        pretty
 
 # Setup
 title:            fooforge
-tagline:          'Where no turtle has gone before!'
-description:      'A simple website'
+tagline:          'UTC+2 based IT Specialist and Speaker'
+description:      'Mike Adolphs'
 url:              http://fooforge.com
 
 author:
   name:           'Mike Adolphs'
   url:            https://twitter.com/fooforge
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          0.1.0
