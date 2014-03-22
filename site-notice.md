@@ -12,6 +12,9 @@ This website is being operated by:
 > 23560 Luebeck  
 > - Germany -
 
+(German) sales tax identification number:
+
+> DE285998753
 
 Responsible in terms of §5 TMG, §55 RfStV (German law):
 
