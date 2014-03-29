@@ -9,7 +9,7 @@ RUN /usr/bin/apt-get update
 RUN /bin/mkdir /root/.ssh
 
 # Install dependencies
-RUN /usr/bin/apt-get install -qy build-essential curl git openssh-client
+RUN /usr/bin/apt-get install -qy build-essential curl git imagemagick openssh-client
 
 # Install rbenv/Ruby
 RUN /usr/bin/apt-get install -qy zlib1g-dev libssl-dev libreadline-dev libyaml-dev libxml2-dev libxslt-dev
