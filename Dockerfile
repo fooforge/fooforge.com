@@ -32,7 +32,7 @@ RUN echo 'gem: --no-rdoc --no-ri' >> /.gemrc
 RUN /bin/bash -lc 'gem install bundler'
 
 # Install nginx
-RUN /usr/bin/apt-get install -qy nginx 
+RUN /usr/bin/apt-get install -qy nginx
 RUN /bin/echo "daemon off;" >> /etc/nginx/nginx.conf
 
 EXPOSE 80
@@ -40,10 +40,9 @@ EXPOSE 80
 # Clone and build fooforge.com
 RUN /usr/bin/git clone https://github.com/fooforge/fooforge.com.git /var/www/fooforge.com/
 RUN /bin/bash -lc 'cd /var/www/fooforge.com; bundle'
-RUN /bin/bash -lc 'cd /var/www/fooforge.com; jekyll build'
+RUN /bin/bash -lc 'cd /var/www/fooforge.com; jekyll build --trace'
 
 ADD .docker/nginx-fooforge.com /etc/nginx/sites-available/fooforge.com
 RUN /bin/bash -c '/bin/ln -s /etc/nginx/sites-available/fooforge.com /etc/nginx/sites-enabled/fooforge.com'
 
 CMD service nginx start
-
