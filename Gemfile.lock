@@ -36,6 +36,8 @@ GEM
       rb-kqueue (>= 0.2)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    mini_magick (3.7.0)
+      subexec (~> 0.2.1)
     posix-spawn (0.3.6)
     pygments.rb (0.5.4)
       posix-spawn (~> 0.3.6)
@@ -50,6 +52,7 @@ GEM
     rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (0.9.7)
+    subexec (0.2.3)
     syntax (1.0.0)
     unicorn (4.7.0)
       kgio (~> 2.6)
@@ -62,6 +65,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  mini_magick
   rack-jekyll!
   rdiscount
   unicorn

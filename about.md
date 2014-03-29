@@ -11,7 +11,7 @@ He's also speaking in front of people every once in a while and interested in ma
 
 Mike is currently not available for hire. That said, feel free to let him know about interesting remote jobs. Maybe you can pick up the conversation again once the situation has changed.
 
-![Mike Adolphs](/public/img/fooforge.png)
+{% picture fooforge.png %}
 
 ### Contact options
 
