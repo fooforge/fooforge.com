@@ -9,6 +9,3 @@ gem 'mini_magick'
 
 # Sitemap plugin
 gem 'jekyll-sitemap'
-
-# Emoji plugin
-gem 'emoji_for_jekyll'

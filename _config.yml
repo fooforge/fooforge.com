@@ -27,7 +27,6 @@ github:
 
 gems:
   - jekyll-sitemap
-  - emoji_for_jekyll
   
 picture:
   source: "public/img/_original"
