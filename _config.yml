@@ -25,6 +25,9 @@ version:          0.1.0
 github:
   repo:           https://github.com/fooforge/fooforge.com
 
+gems:
+  - jekyll-sitemap
+  
 picture:
   source: "public/img/_original"
   output: "public/img"

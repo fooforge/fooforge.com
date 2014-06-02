@@ -6,3 +6,6 @@ ruby '2.0.0'
 gem 'jekyll'
 gem 'rdiscount'
 gem 'mini_magick'
+
+# Sitemap plugin
+gem 'jekyll-sitemap'
