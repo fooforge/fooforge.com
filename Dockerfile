@@ -24,8 +24,8 @@ RUN /bin/echo 'eval "$(rbenv init -)"' >> /etc/profile.d/rbenv.sh
 RUN /bin/echo 'eval "$(rbenv init -)"' >> .bashrc
 
 ENV CONFIGURE_OPTS --disable-install-doc
-RUN /bin/bash -c 'rbenv install 2.0.0-p353'
-RUN /bin/bash -c 'rbenv global 2.0.0-p353'
+RUN /bin/bash -c 'rbenv install 2.1.2'
+RUN /bin/bash -c 'rbenv global 2.1.2'
 RUN /bin/bash -c 'rbenv rehash'
 
 RUN echo 'gem: --no-rdoc --no-ri' >> /.gemrc
