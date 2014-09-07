@@ -39,8 +39,8 @@ picture:
         class: "default-img"
         itemprop: "image"
       source_large:
-        media: "(min-width: 50em)"
-        width: "800"
+        media: "(min-width: 35em)"
+        width: "720"
       source_medium:
         media: "(min-width: 25em)"
         width: "400"
