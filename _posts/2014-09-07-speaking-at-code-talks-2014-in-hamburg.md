@@ -16,5 +16,5 @@ It'll be a revised version of what I've been talking about at various conference
 
 As an aside, I have **two** free tickets to give away and **five** tickets offering a 50% discount each. If you're in need of a ticket, send me [an email](mailto:mike@fooforge.com). One ticket per person, first come, first serve and only as long as the conference's not sold out!
 
-**Update:**
+**Update:**  
 The two free tickets are gone. 5x 50% discount tickets are still available.
