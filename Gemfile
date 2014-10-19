@@ -8,5 +8,8 @@ gem 'jekyll'
 gem 'rdiscount'
 gem 'mini_magick'
 
+gem 'execjs'
+gem 'therubyracer'
+
 # Sitemap plugin
 gem 'jekyll-sitemap'
