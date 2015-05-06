@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Speaking at ESRI UK in London"
-date:   2015-05-04 17:00:00
+date:   2015-05-06 16:00:00
 categories: meatspace
 ---
 
