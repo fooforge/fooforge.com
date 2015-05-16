@@ -9,7 +9,7 @@ permalink:        pretty
 
 # Setup
 title:            fooforge
-tagline:          'UTC+2 based IT Specialist and Speaker'
+tagline:          'UTC+2 based Support Manager and Speaker'
 description:      'Mike Adolphs'
 url:              http://fooforge.com
 
@@ -17,10 +17,10 @@ author:
   name:           'Mike Adolphs'
   url:            https://twitter.com/fooforge
 
-paginate:         10
+paginate:         25
 
 # Custom vars
-version:          0.1.0
+version:          0.1.1
 
 github:
   repo:           https://github.com/fooforge/fooforge.com
