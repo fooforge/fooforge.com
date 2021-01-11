@@ -40,6 +40,7 @@ GEM
     jekyll-watch (1.1.1)
       listen (~> 2.7)
     kramdown (1.4.2)
+    libv8 (3.16.14.19)
     liquid (2.6.1)
     listen (2.7.11)
       celluloid (>= 0.15.2)
@@ -58,10 +59,14 @@ GEM
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     rdiscount (2.1.7.1)
-    redcarpet (3.2.0)
+    redcarpet (3.5.1)
+    ref (2.0.0)
     safe_yaml (1.0.4)
     sass (3.4.6)
     subexec (0.2.3)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
+      ref
     timers (4.0.1)
       hitimes
     toml (0.1.2)
@@ -72,7 +77,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  execjs
   jekyll
   jekyll-sitemap
   mini_magick
   rdiscount
+  therubyracer
